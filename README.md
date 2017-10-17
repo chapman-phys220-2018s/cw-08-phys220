@@ -1,17 +1,14 @@
 # PHYS220 CW 8
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** **CHANGEME**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2016f/cw-08-YOURNAME)
-
-**Due date:** 2016/10/25
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-08-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-08-YOURNAME)
 
 ## Specification
 
-This week, you will explore the differences between ```python/numpy``` and the up-and-coming scientific programming language ```julia```. The syntax of ```julia``` is heavily inspired by a combination between ```python``` and ```MATLAB```, which we will also explore.
+The main task this week is to make sure you are caught up on all your work, and to focus on completing your midterm.
 
-1. Work through the [Julia Overview Slides](http://slides.com/profdressel/julia-overview/). Create the appropriate notebooks and test functions as you follow along. Discuss and ask questions.
-1. In a ```julia``` interpreter, run the command ```Pkg.generate("juliapkg","MIT")```. This generates a complete ```git``` repository with a template for a new ```julia``` package. Explore the created directory and its contents: explain in a notebook exactly what is created, and how it relates to what we have been learning in class.
+1. Work through the notebook of examples, as a gallery of other useful python features.
 
 ## Assessment
 
